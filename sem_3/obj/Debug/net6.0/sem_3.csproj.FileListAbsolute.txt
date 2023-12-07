@@ -1,0 +1,15 @@
+C:\Users\BaDSaNta\OneDrive\Документы\учеба\homework4\sem_3\obj\Debug\net6.0\sem_3.csproj.AssemblyReference.cache
+C:\Users\BaDSaNta\OneDrive\Документы\учеба\homework4\sem_3\obj\Debug\net6.0\sem_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BaDSaNta\OneDrive\Документы\учеба\homework4\sem_3\obj\Debug\net6.0\sem_3.AssemblyInfoInputs.cache
+C:\Users\BaDSaNta\OneDrive\Документы\учеба\homework4\sem_3\obj\Debug\net6.0\sem_3.AssemblyInfo.cs
+C:\Users\BaDSaNta\OneDrive\Документы\учеба\homework4\sem_3\obj\Debug\net6.0\sem_3.csproj.CoreCompileInputs.cache
+C:\Users\BaDSaNta\OneDrive\Документы\учеба\homework4\sem_3\bin\Debug\net6.0\sem_3.exe
+C:\Users\BaDSaNta\OneDrive\Документы\учеба\homework4\sem_3\bin\Debug\net6.0\sem_3.deps.json
+C:\Users\BaDSaNta\OneDrive\Документы\учеба\homework4\sem_3\bin\Debug\net6.0\sem_3.runtimeconfig.json
+C:\Users\BaDSaNta\OneDrive\Документы\учеба\homework4\sem_3\bin\Debug\net6.0\sem_3.dll
+C:\Users\BaDSaNta\OneDrive\Документы\учеба\homework4\sem_3\bin\Debug\net6.0\sem_3.pdb
+C:\Users\BaDSaNta\OneDrive\Документы\учеба\homework4\sem_3\obj\Debug\net6.0\sem_3.dll
+C:\Users\BaDSaNta\OneDrive\Документы\учеба\homework4\sem_3\obj\Debug\net6.0\refint\sem_3.dll
+C:\Users\BaDSaNta\OneDrive\Документы\учеба\homework4\sem_3\obj\Debug\net6.0\sem_3.pdb
+C:\Users\BaDSaNta\OneDrive\Документы\учеба\homework4\sem_3\obj\Debug\net6.0\sem_3.genruntimeconfig.cache
+C:\Users\BaDSaNta\OneDrive\Документы\учеба\homework4\sem_3\obj\Debug\net6.0\ref\sem_3.dll
